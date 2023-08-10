@@ -1,0 +1,32 @@
+* {
+    background-color: #081f49
+}
+
+.Title {
+    color: white;
+    text-align: center;
+    font-family: 'Great Vibes', cursive;
+    font-size: 60px;
+    
+}
+
+.INP {
+    color: rgb(217, 200, 200);
+    font-family: 'Cookie', cursive;
+    text-align: center;
+    font-size: 150px;
+}
+
+.footer {
+    color: white;
+    text-align: right;
+    font-family: "Open Sans", sans-serif;
+}
+
+.Fb {
+    color: bisque;
+}
+
+.Ig {
+    color: bisque;
+}
