@@ -35,3 +35,22 @@
     color: bisque;
 }
 
+@media (max-width: 680px) {
+  
+  .Title {
+    font-size: 3.5rem;
+    text-align: center;
+  }
+
+
+  .INP {
+    font-size: 3.5rem;
+    text-align: center;
+  }
+
+  .footer {
+    font-size: smaller;
+  }
+
+
+  }
