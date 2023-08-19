@@ -9,7 +9,7 @@
   color: beige;
   display: flex;
   font-family: 'Kalam', cursive;
-  font-size: 70px;
+  font-size: 50px;
   justify-content: center;  
 }
 
@@ -17,7 +17,7 @@
   color: beige;
   display: flex;
   font-family: 'Ruwudu', serif;
-  font-size: 35px;
+  font-size: 25px;
   justify-content: center;  
 }
 
@@ -67,7 +67,7 @@
 }
 
 .Heading {
-  font-size: 55px;
+  font: size 10px;;
 }
 
 .INP {
