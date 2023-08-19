@@ -59,7 +59,7 @@
   color: bisque;
 }
 
-@media (max-width: 680px) {
+@media (max-width: 500px) {
 
 .Title {
   font-size: 3.5rem;
