@@ -106,10 +106,13 @@ button:active {
 @media screen and (max-width: 992px) {
     .ROJJ {
       font-size: 45px;
+      font-family: 'Inconsolata', monospace;
+    font-family: 'Parisienne', cursive;
+    font-family: 'Satisfy', cursive;
     }
 
     .headd {
-        font-size: 30px;
+        font-size: 35px;
     }
 
     .APP {
@@ -123,8 +126,8 @@ button:active {
     }
 
     button {
-        height: 62px;
-        width: 165px;
+        height: 46.5px;
+        width: 123.75px;
         cursor: pointer;
         color: #fff;
         font-size: 17px;
