@@ -5,7 +5,7 @@ html {
 
 
 .headd {
-    color: rgb(162, 132, 132);
+    color: rgb(153, 134, 176);
     display: grid;
     justify-content: center;
     font-size: 80px;
@@ -112,7 +112,7 @@ button:active {
     }
 
     .headd {
-        font-size: 55px;
+        font-size: 35px;
     }
 
     .APP {
